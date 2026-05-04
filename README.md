@@ -7,4 +7,4 @@ Setup (one-time):
     pip install shiny sentence-transformers torch numpy scikit-learn plotly einops accelerate
 
 Run:
-    shiny run --reload app.py
+    shiny run --reload Embedding_illustrator.py
